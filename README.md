@@ -1,6 +1,6 @@
-#Hotelfinder
+# Hotelfinder
 
-##Projektübersicht
+## Projektübersicht
 Das Projekt wurde im Rahmen einer Kooperation mit der HSL-Logistik GmbH, einem Eisenbahnverkehrsunternehmen, durchgeführt. Ziel des Projekts war die systematische Erfassung von Hotelpreisen in relevanten Städten und Regionen Deutschlands, um Triebfahrzeugführern nach einem langen Arbeitstag geeignete und aktuelle Übernachtungsmöglichkeiten anzubieten. Das Projektteam bestand aus drei Mitgliedern: 
 Thomas Bücker, Demian In den Birken und Okan Çolak
 
