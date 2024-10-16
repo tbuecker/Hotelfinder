@@ -1,14 +1,5 @@
 requests
 bs4
-csv
-time
-concurrent.futures
-datetime
-sqlite3
-re
-random
-threading
-subprocess
 pandas
 dash
 dash_leaflet
