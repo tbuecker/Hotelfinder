@@ -52,3 +52,25 @@ Das Projektteam bestand aus:
 - **Web Scraping**: [Python](https://www.python.org/)
 - **Datenbank**: [SQLite](https://www.sqlite.org/index.html)
 - **Visualisierung**: [Dash](https://plotly.com/dash/)
+
+## Installationsanleitung
+
+1. Klone das Repository:
+```
+   git clone https://github.com/tbuecker/Hotelfinder.git
+```
+
+2. Installiere die benötigten Abhängigkeiten:
+```
+- pip install -r requirements.txt
+```
+
+3. Führe das Webscraping-Skript aus:
+```
+- python run_all.py
+```
+
+4. Starte das Dashboard:
+```
+- python dashboard.py
+```
