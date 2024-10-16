@@ -6,9 +6,9 @@ Dieses Projekt wurde in Zusammenarbeit mit der **HSL-Logistik GmbH** durchgefüh
 
 Das Projektteam bestand aus:
 
-- **Thomas Bücker** – Projektleitung, Entwickler, Dokumentation, Visualisierung
-- **Demian In den Birken** – Dokumentation
-- **Okan Çolak** – Projektleitung, Entwickler, Dokumentation
+- **[Thomas Bücker](https://github.com/tbuecker)** – Projektleitung, Entwickler, Dokumentation, Visualisierung
+- **[Demian In den Birken](https://github.com/demmdata1990)** – Dokumentation
+- **[Okan Çolak](https://github.com/Okan-Colak)** – Projektleitung, Entwickler, Dokumentation
 
 ### Verantwortlichkeiten
 
