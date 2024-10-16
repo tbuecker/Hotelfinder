@@ -1,7 +1,7 @@
 import subprocess
 
 # Pfad zur virtuellen Umgebung
-venv_path = r"\.venv\Scripts\activate"
+venv_path = r"A:\DataCraft\Hotelfinder\.venv\Scripts\activate"
 
 # Part 1 ausführen (Scraping und Speicherung in CSV)
 print("Starte Part 1 (Scraping)...")
