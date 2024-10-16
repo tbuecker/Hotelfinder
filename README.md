@@ -26,7 +26,7 @@ Das Projektteam bestand aus:
 
 ## Projektziele
 
-1. **Webscraping**: Automatisierte Erfassung von Hotelpreisen auf **Booking.com**.
+1. **Webscraping**: Einmalige Erfassung von Hotelpreisen auf **Booking.com**.
 2. **Datenbank**: Speicherung der gesammelten Daten in einer **SQLite**-Datenbank.
 3. **Visualisierung**: Entwicklung eines interaktiven Dashboards zur Darstellung der Hotelpreise.
 4. **Manuelle Datenerfassung**: Einmalige Erfassung der Hotelpreise, ohne automatische Aktualisierung.
@@ -34,7 +34,7 @@ Das Projektteam bestand aus:
 ## Vorgehensweise
 
 1. **Anforderungsanalyse**: In Zusammenarbeit mit HSL-Logistik wurden die Anforderungen definiert.
-2. **Technologieauswahl und Setup**: Auswahl von Selenium für Webscraping, SQLite für die Datenbank und Dash für die Visualisierung.
+2. **Technologieauswahl und Setup**: Auswahl von BeautifulSoup und requests für Webscraping, SQLite für die Datenbank und Dash für die Visualisierung.
 3. **Datenextraktion**: Entwicklung eines Webscraping-Skripts, das Hotelpreise von Booking.com sammelt.
 4. **Datenbankdesign**: Strukturierte Speicherung der Daten in einer SQLite-Datenbank.
 5. **Visualisierung**: Erstellung eines interaktiven Dashboards zur Filterung und Anzeige der gesammelten Daten.
