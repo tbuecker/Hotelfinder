@@ -16,7 +16,7 @@ Das Projektteam bestand aus:
   - Organisation des Projekts, Vorstellung der finalen Ergebnisse.
   
 - **Datenextraktion und Präsentation**: Thomas Bücker, Okan Çolak
-  - Entwicklung der Webscraping-Skripte (Selenium) und Datenbank (SQLite).
+  - Entwicklung der Webscraping-Skripte (Python) und Datenbank (SQLite).
   
 - **Dokumentation und Bericht**: Thomas Bücker, Demian In den Birken, Okan Çolak
   - Erstellung der Projektdokumentation und des Abschlussberichts.
